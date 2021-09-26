@@ -1,0 +1,26 @@
+{
+  "name": "Prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusbattisti/login_html_css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusbattisti/login_html_css/issues"
+  },
+  "homepage": "https://github.com/matheusbattisti/login_html_css#readme"
+}
