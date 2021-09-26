@@ -1,3 +1,4 @@
+const port = process.env.PORT || 3000;
 const express = require('express');
 const app = express();
 const path = require('path');
@@ -9,4 +10,4 @@ app.get('/', function (req, res) {
 app.get('/tela2', function (req, res) {
   res.sendFile(path.join(__dirname , "/tela2.html"));
 });
-app.listen(3000);
+app.listen(port);
