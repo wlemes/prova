@@ -1,5 +1,5 @@
 {
-  "name": "Prova",
+  "name": "prova",
   "version": "1.0.0",
   "description": "",
   "main": "servidor.js",
@@ -12,15 +12,8 @@
     "start": "node servidor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/matheusbattisti/login_html_css.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/matheusbattisti/login_html_css/issues"
-  },
-  "homepage": "https://github.com/matheusbattisti/login_html_css#readme"
+  "license": "ISC"
+
 }
